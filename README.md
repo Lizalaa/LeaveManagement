@@ -1,2 +1,2 @@
 # LeaveManagement
-A online Leave Management System
+An online Leave Management System
